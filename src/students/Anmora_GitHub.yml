@@ -1,0 +1,43 @@
+# 
+# X||xMO||RAx||X (AnMora) GitHub
+# 
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+  # Profile Information
+  name: Angel Mora FLores
+  tagline: Full Stack Developer
+  avatar: MORASKULL1.jpg
+
+  # SideBar Links
+  email: anmora.2396@gmail.com
+  phone: 7254 7757
+  # website:
+  linkedin: Angel Mora
+  GitHub: AnMora
+  # Twitter:
+  # stack-overflow: Number/Username, e.g. 123456/alandoe
+
+  languages:
+    idiom: Spanish
+    level: Native
+
+    idiom: English
+    level: Intermedium
+
+Education:
+  Title: Full Stack Developer
+  Intitution: 4GeeksAcademy CR
+  Time: 2021 - 2021
+
+  Title: Web Developer
+  Institution: Instituto Nacional de Aprendizaje
+  Time: 2018 - 2019 
+
+  
+
+
+
+
