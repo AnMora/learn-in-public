@@ -41,7 +41,7 @@
 
 
 template: "online-cv"
-skin: "blue"
+skin: "gray"
 
 # Personal Information
 basic_info:
@@ -51,13 +51,14 @@ basic_info:
     last_name: Mora
     
     # Define yourself in 4-5 words
-    motto: competent
+    motto: competent, pro-active
     
     # focus
     focus: developer full stack
     
     # You have 1 paragraph to make a great impression, summarize your career.
-    summary: |
+    summary: |I am a person with knowledge in web development, both design and development of functions and programming languages, with one year of experience. Among my strengths I include initiative, leadership, creativity, dynamism, teamwork, perseverance, ready for our new professional challenges and many wishes for improvement. I love helping people find and get what they need, giving them top quality care and a high level of satisfaction.
+
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
